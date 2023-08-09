@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <row>
+  <item>
     <Original Campaign>Testing_Campaign_1</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
     <Campaign Labels>Campaign_1_Label_1</Campaign Labels>
@@ -41,8 +41,8 @@
     <COA Business Name>CPN_1_COABN_1</COA Business Name>
     <COA Description1>CPN_1_COAD1_1</COA Description1>
     <Max CPC>499.8385445</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_1</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
     <Campaign Labels>Campaign_1_Label_2</Campaign Labels>
@@ -83,8 +83,8 @@
     <COA Business Name>CPN_1_COABN_2</COA Business Name>
     <COA Description1>CPN_1_COAD1_2</COA Description1>
     <Max CPC>500.7505161</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_1</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
     <Campaign Labels>Campaign_1_Label_3</Campaign Labels>
@@ -125,8 +125,8 @@
     <COA Business Name>CPN_1_COABN_3</COA Business Name>
     <COA Description1>CPN_1_COAD1_3</COA Description1>
     <Max CPC>69.3461651</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_1</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
     <Campaign Labels>Campaign_1_Label_4</Campaign Labels>
@@ -167,8 +167,8 @@
     <COA Business Name>CPN_1_COABN_4</COA Business Name>
     <COA Description1>CPN_1_COAD1_4</COA Description1>
     <Max CPC>276.4093213</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_1</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
     <Campaign Labels>Campaign_1_Label_5</Campaign Labels>
@@ -209,8 +209,8 @@
     <COA Business Name>CPN_1_COABN_5</COA Business Name>
     <COA Description1>CPN_1_COAD1_5</COA Description1>
     <Max CPC>30.03346277</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_1</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
     <Campaign Labels>Campaign_1_Label_6</Campaign Labels>
@@ -251,8 +251,8 @@
     <COA Business Name>CPN_1_COABN_6</COA Business Name>
     <COA Description1>CPN_1_COAD1_6</COA Description1>
     <Max CPC>163.0899267</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_1</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
     <Campaign Labels>Campaign_1_Label_7</Campaign Labels>
@@ -293,8 +293,8 @@
     <COA Business Name>CPN_1_COABN_7</COA Business Name>
     <COA Description1>CPN_1_COAD1_7</COA Description1>
     <Max CPC>3.868428533</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_1</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
     <Campaign Labels>Campaign_1_Label_8</Campaign Labels>
@@ -335,8 +335,8 @@
     <COA Business Name>CPN_1_COABN_8</COA Business Name>
     <COA Description1>CPN_1_COAD1_8</COA Description1>
     <Max CPC>460.6974015</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_1</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
     <Campaign Labels>Campaign_1_Label_9</Campaign Labels>
@@ -377,8 +377,8 @@
     <COA Business Name>CPN_1_COABN_9</COA Business Name>
     <COA Description1>CPN_1_COAD1_9</COA Description1>
     <Max CPC>188.1599671</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_1</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
     <Campaign Labels>Campaign_1_Label_10</Campaign Labels>
@@ -419,8 +419,8 @@
     <COA Business Name>CPN_1_COABN_10</COA Business Name>
     <COA Description1>CPN_1_COAD1_10</COA Description1>
     <Max CPC>94.09946238</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_2</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
     <Campaign Labels>Campaign_2_Label_1</Campaign Labels>
@@ -461,8 +461,8 @@
     <COA Business Name>CPN_2_COABN_1</COA Business Name>
     <COA Description1>CPN_2_COAD1_1</COA Description1>
     <Max CPC>16.22036486</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_2</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
     <Campaign Labels>Campaign_2_Label_2</Campaign Labels>
@@ -503,8 +503,8 @@
     <COA Business Name>CPN_2_COABN_2</COA Business Name>
     <COA Description1>CPN_2_COAD1_2</COA Description1>
     <Max CPC>626.6566133</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_2</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
     <Campaign Labels>Campaign_2_Label_3</Campaign Labels>
@@ -545,8 +545,8 @@
     <COA Business Name>CPN_2_COABN_3</COA Business Name>
     <COA Description1>CPN_2_COAD1_3</COA Description1>
     <Max CPC>339.475652</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_2</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
     <Campaign Labels>Campaign_2_Label_4</Campaign Labels>
@@ -587,8 +587,8 @@
     <COA Business Name>CPN_2_COABN_4</COA Business Name>
     <COA Description1>CPN_2_COAD1_4</COA Description1>
     <Max CPC>60.93604457</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_2</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
     <Campaign Labels>Campaign_2_Label_5</Campaign Labels>
@@ -629,8 +629,8 @@
     <COA Business Name>CPN_2_COABN_5</COA Business Name>
     <COA Description1>CPN_2_COAD1_5</COA Description1>
     <Max CPC>354.5238388</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_2</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
     <Campaign Labels>Campaign_2_Label_6</Campaign Labels>
@@ -671,8 +671,8 @@
     <COA Business Name>CPN_2_COABN_6</COA Business Name>
     <COA Description1>CPN_2_COAD1_6</COA Description1>
     <Max CPC>258.1141995</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_2</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
     <Campaign Labels>Campaign_2_Label_7</Campaign Labels>
@@ -713,8 +713,8 @@
     <COA Business Name>CPN_2_COABN_7</COA Business Name>
     <COA Description1>CPN_2_COAD1_7</COA Description1>
     <Max CPC>179.6937078</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_2</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
     <Campaign Labels>Campaign_2_Label_8</Campaign Labels>
@@ -755,8 +755,8 @@
     <COA Business Name>CPN_2_COABN_8</COA Business Name>
     <COA Description1>CPN_2_COAD1_8</COA Description1>
     <Max CPC>270.7137662</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_2</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
     <Campaign Labels>Campaign_2_Label_9</Campaign Labels>
@@ -797,8 +797,8 @@
     <COA Business Name>CPN_2_COABN_9</COA Business Name>
     <COA Description1>CPN_2_COAD1_9</COA Description1>
     <Max CPC>144.5615359</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_2</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
     <Campaign Labels>Campaign_2_Label_10</Campaign Labels>
@@ -839,8 +839,8 @@
     <COA Business Name>CPN_2_COABN_10</COA Business Name>
     <COA Description1>CPN_2_COAD1_10</COA Description1>
     <Max CPC>7.59704971</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_3</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
     <Campaign Labels>Campaign_3_Label_1</Campaign Labels>
@@ -881,8 +881,8 @@
     <COA Business Name>CPN_3_COABN_1</COA Business Name>
     <COA Description1>CPN_3_COAD1_1</COA Description1>
     <Max CPC>854.3322305</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_3</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
     <Campaign Labels>Campaign_3_Label_2</Campaign Labels>
@@ -923,8 +923,8 @@
     <COA Business Name>CPN_3_COABN_2</COA Business Name>
     <COA Description1>CPN_3_COAD1_2</COA Description1>
     <Max CPC>322.8307231</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_3</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
     <Campaign Labels>Campaign_3_Label_3</Campaign Labels>
@@ -965,8 +965,8 @@
     <COA Business Name>CPN_3_COABN_3</COA Business Name>
     <COA Description1>CPN_3_COAD1_3</COA Description1>
     <Max CPC>943.20668</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_3</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
     <Campaign Labels>Campaign_3_Label_4</Campaign Labels>
@@ -1007,8 +1007,8 @@
     <COA Business Name>CPN_3_COABN_4</COA Business Name>
     <COA Description1>CPN_3_COAD1_4</COA Description1>
     <Max CPC>7.030734658</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_3</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
     <Campaign Labels>Campaign_3_Label_5</Campaign Labels>
@@ -1049,8 +1049,8 @@
     <COA Business Name>CPN_3_COABN_5</COA Business Name>
     <COA Description1>CPN_3_COAD1_5</COA Description1>
     <Max CPC>156.6939862</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_3</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
     <Campaign Labels>Campaign_3_Label_6</Campaign Labels>
@@ -1091,8 +1091,8 @@
     <COA Business Name>CPN_3_COABN_6</COA Business Name>
     <COA Description1>CPN_3_COAD1_6</COA Description1>
     <Max CPC>65.16205034</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_3</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
     <Campaign Labels>Campaign_3_Label_7</Campaign Labels>
@@ -1133,8 +1133,8 @@
     <COA Business Name>CPN_3_COABN_7</COA Business Name>
     <COA Description1>CPN_3_COAD1_7</COA Description1>
     <Max CPC>5.985208813</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_3</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
     <Campaign Labels>Campaign_3_Label_8</Campaign Labels>
@@ -1175,8 +1175,8 @@
     <COA Business Name>CPN_3_COABN_8</COA Business Name>
     <COA Description1>CPN_3_COAD1_8</COA Description1>
     <Max CPC>76.41108053</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_3</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
     <Campaign Labels>Campaign_3_Label_9</Campaign Labels>
@@ -1217,8 +1217,8 @@
     <COA Business Name>CPN_3_COABN_9</COA Business Name>
     <COA Description1>CPN_3_COAD1_9</COA Description1>
     <Max CPC>384.7647026</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_3</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
     <Campaign Labels>Campaign_3_Label_10</Campaign Labels>
@@ -1259,8 +1259,8 @@
     <COA Business Name>CPN_3_COABN_10</COA Business Name>
     <COA Description1>CPN_3_COAD1_10</COA Description1>
     <Max CPC>747.1321279</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_4</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_4</Campaign>
     <Campaign Labels>Campaign_4_Label_1</Campaign Labels>
@@ -1301,8 +1301,8 @@
     <COA Business Name>CPN_4_COABN_1</COA Business Name>
     <COA Description1>CPN_4_COAD1_1</COA Description1>
     <Max CPC>366.3116287</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_4</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_4</Campaign>
     <Campaign Labels>Campaign_4_Label_2</Campaign Labels>
@@ -1343,8 +1343,8 @@
     <COA Business Name>CPN_4_COABN_2</COA Business Name>
     <COA Description1>CPN_4_COAD1_2</COA Description1>
     <Max CPC>437.9641603</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_4</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_4</Campaign>
     <Campaign Labels>Campaign_4_Label_3</Campaign Labels>
@@ -1385,8 +1385,8 @@
     <COA Business Name>CPN_4_COABN_3</COA Business Name>
     <COA Description1>CPN_4_COAD1_3</COA Description1>
     <Max CPC>177.074709</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_4</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_4</Campaign>
     <Campaign Labels>Campaign_4_Label_4</Campaign Labels>
@@ -1427,8 +1427,8 @@
     <COA Business Name>CPN_4_COABN_4</COA Business Name>
     <COA Description1>CPN_4_COAD1_4</COA Description1>
     <Max CPC>78.16489392</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_4</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_4</Campaign>
     <Campaign Labels>Campaign_4_Label_5</Campaign Labels>
@@ -1469,8 +1469,8 @@
     <COA Business Name>CPN_4_COABN_5</COA Business Name>
     <COA Description1>CPN_4_COAD1_5</COA Description1>
     <Max CPC>27.71571669</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_4</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_4</Campaign>
     <Campaign Labels>Campaign_4_Label_6</Campaign Labels>
@@ -1511,8 +1511,8 @@
     <COA Business Name>CPN_4_COABN_6</COA Business Name>
     <COA Description1>CPN_4_COAD1_6</COA Description1>
     <Max CPC>650.5600849</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_4</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_4</Campaign>
     <Campaign Labels>Campaign_4_Label_7</Campaign Labels>
@@ -1553,8 +1553,8 @@
     <COA Business Name>CPN_4_COABN_7</COA Business Name>
     <COA Description1>CPN_4_COAD1_7</COA Description1>
     <Max CPC>626.2164896</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_4</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_4</Campaign>
     <Campaign Labels>Campaign_4_Label_8</Campaign Labels>
@@ -1595,8 +1595,8 @@
     <COA Business Name>CPN_4_COABN_8</COA Business Name>
     <COA Description1>CPN_4_COAD1_8</COA Description1>
     <Max CPC>442.1040534</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_4</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_4</Campaign>
     <Campaign Labels>Campaign_4_Label_9</Campaign Labels>
@@ -1637,8 +1637,8 @@
     <COA Business Name>CPN_4_COABN_9</COA Business Name>
     <COA Description1>CPN_4_COAD1_9</COA Description1>
     <Max CPC>6.19544068</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_4</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_4</Campaign>
     <Campaign Labels>Campaign_4_Label_10</Campaign Labels>
@@ -1679,8 +1679,8 @@
     <COA Business Name>CPN_4_COABN_10</COA Business Name>
     <COA Description1>CPN_4_COAD1_10</COA Description1>
     <Max CPC>27.30051064</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_5</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_5</Campaign>
     <Campaign Labels>Campaign_5_Label_1</Campaign Labels>
@@ -1721,8 +1721,8 @@
     <COA Business Name>CPN_5_COABN_1</COA Business Name>
     <COA Description1>CPN_5_COAD1_1</COA Description1>
     <Max CPC>66.15580353</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_5</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_5</Campaign>
     <Campaign Labels>Campaign_5_Label_2</Campaign Labels>
@@ -1763,8 +1763,8 @@
     <COA Business Name>CPN_5_COABN_2</COA Business Name>
     <COA Description1>CPN_5_COAD1_2</COA Description1>
     <Max CPC>65.54528015</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_5</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_5</Campaign>
     <Campaign Labels>Campaign_5_Label_3</Campaign Labels>
@@ -1805,8 +1805,8 @@
     <COA Business Name>CPN_5_COABN_3</COA Business Name>
     <COA Description1>CPN_5_COAD1_3</COA Description1>
     <Max CPC>204.3752377</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_5</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_5</Campaign>
     <Campaign Labels>Campaign_5_Label_4</Campaign Labels>
@@ -1847,8 +1847,8 @@
     <COA Business Name>CPN_5_COABN_4</COA Business Name>
     <COA Description1>CPN_5_COAD1_4</COA Description1>
     <Max CPC>286.0222074</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_5</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_5</Campaign>
     <Campaign Labels>Campaign_5_Label_5</Campaign Labels>
@@ -1889,8 +1889,8 @@
     <COA Business Name>CPN_5_COABN_5</COA Business Name>
     <COA Description1>CPN_5_COAD1_5</COA Description1>
     <Max CPC>148.1386578</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_5</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_5</Campaign>
     <Campaign Labels>Campaign_5_Label_6</Campaign Labels>
@@ -1931,8 +1931,8 @@
     <COA Business Name>CPN_5_COABN_6</COA Business Name>
     <COA Description1>CPN_5_COAD1_6</COA Description1>
     <Max CPC>720.689858</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_5</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_5</Campaign>
     <Campaign Labels>Campaign_5_Label_7</Campaign Labels>
@@ -1973,8 +1973,8 @@
     <COA Business Name>CPN_5_COABN_7</COA Business Name>
     <COA Description1>CPN_5_COAD1_7</COA Description1>
     <Max CPC>495.6247568</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_5</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_5</Campaign>
     <Campaign Labels>Campaign_5_Label_8</Campaign Labels>
@@ -2015,8 +2015,8 @@
     <COA Business Name>CPN_5_COABN_8</COA Business Name>
     <COA Description1>CPN_5_COAD1_8</COA Description1>
     <Max CPC>163.7258508</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_5</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_5</Campaign>
     <Campaign Labels>Campaign_5_Label_9</Campaign Labels>
@@ -2057,8 +2057,8 @@
     <COA Business Name>CPN_5_COABN_9</COA Business Name>
     <COA Description1>CPN_5_COAD1_9</COA Description1>
     <Max CPC>63.14460823</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_5</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_5</Campaign>
     <Campaign Labels>Campaign_5_Label_10</Campaign Labels>
@@ -2099,8 +2099,8 @@
     <COA Business Name>CPN_5_COABN_10</COA Business Name>
     <COA Description1>CPN_5_COAD1_10</COA Description1>
     <Max CPC>363.3453949</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_6</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_6</Campaign>
     <Campaign Labels>Campaign_6_Label_1</Campaign Labels>
@@ -2141,8 +2141,8 @@
     <COA Business Name>CPN_6_COABN_1</COA Business Name>
     <COA Description1>CPN_6_COAD1_1</COA Description1>
     <Max CPC>268.7536294</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_6</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_6</Campaign>
     <Campaign Labels>Campaign_6_Label_2</Campaign Labels>
@@ -2183,8 +2183,8 @@
     <COA Business Name>CPN_6_COABN_2</COA Business Name>
     <COA Description1>CPN_6_COAD1_2</COA Description1>
     <Max CPC>163.3978809</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_6</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_6</Campaign>
     <Campaign Labels>Campaign_6_Label_3</Campaign Labels>
@@ -2225,8 +2225,8 @@
     <COA Business Name>CPN_6_COABN_3</COA Business Name>
     <COA Description1>CPN_6_COAD1_3</COA Description1>
     <Max CPC>161.844969</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_6</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_6</Campaign>
     <Campaign Labels>Campaign_6_Label_4</Campaign Labels>
@@ -2267,8 +2267,8 @@
     <COA Business Name>CPN_6_COABN_4</COA Business Name>
     <COA Description1>CPN_6_COAD1_4</COA Description1>
     <Max CPC>39.98176791</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_6</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_6</Campaign>
     <Campaign Labels>Campaign_6_Label_5</Campaign Labels>
@@ -2309,8 +2309,8 @@
     <COA Business Name>CPN_6_COABN_5</COA Business Name>
     <COA Description1>CPN_6_COAD1_5</COA Description1>
     <Max CPC>220.3578797</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_6</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_6</Campaign>
     <Campaign Labels>Campaign_6_Label_6</Campaign Labels>
@@ -2351,8 +2351,8 @@
     <COA Business Name>CPN_6_COABN_6</COA Business Name>
     <COA Description1>CPN_6_COAD1_6</COA Description1>
     <Max CPC>143.4442433</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_6</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_6</Campaign>
     <Campaign Labels>Campaign_6_Label_7</Campaign Labels>
@@ -2393,8 +2393,8 @@
     <COA Business Name>CPN_6_COABN_7</COA Business Name>
     <COA Description1>CPN_6_COAD1_7</COA Description1>
     <Max CPC>221.9718878</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_6</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_6</Campaign>
     <Campaign Labels>Campaign_6_Label_8</Campaign Labels>
@@ -2435,8 +2435,8 @@
     <COA Business Name>CPN_6_COABN_8</COA Business Name>
     <COA Description1>CPN_6_COAD1_8</COA Description1>
     <Max CPC>717.1252899</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_6</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_6</Campaign>
     <Campaign Labels>Campaign_6_Label_9</Campaign Labels>
@@ -2477,8 +2477,8 @@
     <COA Business Name>CPN_6_COABN_9</COA Business Name>
     <COA Description1>CPN_6_COAD1_9</COA Description1>
     <Max CPC>228.1593951</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_6</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_6</Campaign>
     <Campaign Labels>Campaign_6_Label_10</Campaign Labels>
@@ -2519,8 +2519,8 @@
     <COA Business Name>CPN_6_COABN_10</COA Business Name>
     <COA Description1>CPN_6_COAD1_10</COA Description1>
     <Max CPC>73.2910245</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_7</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_7</Campaign>
     <Campaign Labels>Campaign_7_Label_1</Campaign Labels>
@@ -2561,8 +2561,8 @@
     <COA Business Name>CPN_7_COABN_1</COA Business Name>
     <COA Description1>CPN_7_COAD1_1</COA Description1>
     <Max CPC>23.20407328</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_7</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_7</Campaign>
     <Campaign Labels>Campaign_7_Label_2</Campaign Labels>
@@ -2603,8 +2603,8 @@
     <COA Business Name>CPN_7_COABN_2</COA Business Name>
     <COA Description1>CPN_7_COAD1_2</COA Description1>
     <Max CPC>381.6332574</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_7</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_7</Campaign>
     <Campaign Labels>Campaign_7_Label_3</Campaign Labels>
@@ -2645,8 +2645,8 @@
     <COA Business Name>CPN_7_COABN_3</COA Business Name>
     <COA Description1>CPN_7_COAD1_3</COA Description1>
     <Max CPC>349.631348</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_7</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_7</Campaign>
     <Campaign Labels>Campaign_7_Label_4</Campaign Labels>
@@ -2687,8 +2687,8 @@
     <COA Business Name>CPN_7_COABN_4</COA Business Name>
     <COA Description1>CPN_7_COAD1_4</COA Description1>
     <Max CPC>11.83598281</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_7</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_7</Campaign>
     <Campaign Labels>Campaign_7_Label_5</Campaign Labels>
@@ -2729,8 +2729,8 @@
     <COA Business Name>CPN_7_COABN_5</COA Business Name>
     <COA Description1>CPN_7_COAD1_5</COA Description1>
     <Max CPC>337.1130858</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_7</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_7</Campaign>
     <Campaign Labels>Campaign_7_Label_6</Campaign Labels>
@@ -2771,8 +2771,8 @@
     <COA Business Name>CPN_7_COABN_6</COA Business Name>
     <COA Description1>CPN_7_COAD1_6</COA Description1>
     <Max CPC>19.15213247</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_7</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_7</Campaign>
     <Campaign Labels>Campaign_7_Label_7</Campaign Labels>
@@ -2813,8 +2813,8 @@
     <COA Business Name>CPN_7_COABN_7</COA Business Name>
     <COA Description1>CPN_7_COAD1_7</COA Description1>
     <Max CPC>334.5370025</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_7</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_7</Campaign>
     <Campaign Labels>Campaign_7_Label_8</Campaign Labels>
@@ -2855,8 +2855,8 @@
     <COA Business Name>CPN_7_COABN_8</COA Business Name>
     <COA Description1>CPN_7_COAD1_8</COA Description1>
     <Max CPC>14.35377339</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_7</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_7</Campaign>
     <Campaign Labels>Campaign_7_Label_9</Campaign Labels>
@@ -2897,8 +2897,8 @@
     <COA Business Name>CPN_7_COABN_9</COA Business Name>
     <COA Description1>CPN_7_COAD1_9</COA Description1>
     <Max CPC>112.3633163</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_7</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_7</Campaign>
     <Campaign Labels>Campaign_7_Label_10</Campaign Labels>
@@ -2939,8 +2939,8 @@
     <COA Business Name>CPN_7_COABN_10</COA Business Name>
     <COA Description1>CPN_7_COAD1_10</COA Description1>
     <Max CPC>90.85901838</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_8</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_8</Campaign>
     <Campaign Labels>Campaign_8_Label_1</Campaign Labels>
@@ -2981,8 +2981,8 @@
     <COA Business Name>CPN_8_COABN_1</COA Business Name>
     <COA Description1>CPN_8_COAD1_1</COA Description1>
     <Max CPC>520.9124255</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_8</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_8</Campaign>
     <Campaign Labels>Campaign_8_Label_2</Campaign Labels>
@@ -3023,8 +3023,8 @@
     <COA Business Name>CPN_8_COABN_2</COA Business Name>
     <COA Description1>CPN_8_COAD1_2</COA Description1>
     <Max CPC>12.32464213</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_8</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_8</Campaign>
     <Campaign Labels>Campaign_8_Label_3</Campaign Labels>
@@ -3065,8 +3065,8 @@
     <COA Business Name>CPN_8_COABN_3</COA Business Name>
     <COA Description1>CPN_8_COAD1_3</COA Description1>
     <Max CPC>343.6508109</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_8</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_8</Campaign>
     <Campaign Labels>Campaign_8_Label_4</Campaign Labels>
@@ -3107,8 +3107,8 @@
     <COA Business Name>CPN_8_COABN_4</COA Business Name>
     <COA Description1>CPN_8_COAD1_4</COA Description1>
     <Max CPC>544.9789955</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_8</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_8</Campaign>
     <Campaign Labels>Campaign_8_Label_5</Campaign Labels>
@@ -3149,8 +3149,8 @@
     <COA Business Name>CPN_8_COABN_5</COA Business Name>
     <COA Description1>CPN_8_COAD1_5</COA Description1>
     <Max CPC>106.2139471</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_8</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_8</Campaign>
     <Campaign Labels>Campaign_8_Label_6</Campaign Labels>
@@ -3191,8 +3191,8 @@
     <COA Business Name>CPN_8_COABN_6</COA Business Name>
     <COA Description1>CPN_8_COAD1_6</COA Description1>
     <Max CPC>598.7019148</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_8</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_8</Campaign>
     <Campaign Labels>Campaign_8_Label_7</Campaign Labels>
@@ -3233,8 +3233,8 @@
     <COA Business Name>CPN_8_COABN_7</COA Business Name>
     <COA Description1>CPN_8_COAD1_7</COA Description1>
     <Max CPC>660.227536</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_8</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_8</Campaign>
     <Campaign Labels>Campaign_8_Label_8</Campaign Labels>
@@ -3275,8 +3275,8 @@
     <COA Business Name>CPN_8_COABN_8</COA Business Name>
     <COA Description1>CPN_8_COAD1_8</COA Description1>
     <Max CPC>34.70573619</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_8</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_8</Campaign>
     <Campaign Labels>Campaign_8_Label_9</Campaign Labels>
@@ -3317,8 +3317,8 @@
     <COA Business Name>CPN_8_COABN_9</COA Business Name>
     <COA Description1>CPN_8_COAD1_9</COA Description1>
     <Max CPC>24.06349501</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_8</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_8</Campaign>
     <Campaign Labels>Campaign_8_Label_10</Campaign Labels>
@@ -3359,8 +3359,8 @@
     <COA Business Name>CPN_8_COABN_10</COA Business Name>
     <COA Description1>CPN_8_COAD1_10</COA Description1>
     <Max CPC>76.54691589</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_9</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_9</Campaign>
     <Campaign Labels>Campaign_9_Label_1</Campaign Labels>
@@ -3401,8 +3401,8 @@
     <COA Business Name>CPN_9_COABN_1</COA Business Name>
     <COA Description1>CPN_9_COAD1_1</COA Description1>
     <Max CPC>22.02605838</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_9</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_9</Campaign>
     <Campaign Labels>Campaign_9_Label_2</Campaign Labels>
@@ -3443,8 +3443,8 @@
     <COA Business Name>CPN_9_COABN_2</COA Business Name>
     <COA Description1>CPN_9_COAD1_2</COA Description1>
     <Max CPC>547.0299653</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_9</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_9</Campaign>
     <Campaign Labels>Campaign_9_Label_3</Campaign Labels>
@@ -3485,8 +3485,8 @@
     <COA Business Name>CPN_9_COABN_3</COA Business Name>
     <COA Description1>CPN_9_COAD1_3</COA Description1>
     <Max CPC>206.299254</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_9</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_9</Campaign>
     <Campaign Labels>Campaign_9_Label_4</Campaign Labels>
@@ -3527,8 +3527,8 @@
     <COA Business Name>CPN_9_COABN_4</COA Business Name>
     <COA Description1>CPN_9_COAD1_4</COA Description1>
     <Max CPC>35.61233238</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_9</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_9</Campaign>
     <Campaign Labels>Campaign_9_Label_5</Campaign Labels>
@@ -3569,8 +3569,8 @@
     <COA Business Name>CPN_9_COABN_5</COA Business Name>
     <COA Description1>CPN_9_COAD1_5</COA Description1>
     <Max CPC>483.2709956</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_9</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_9</Campaign>
     <Campaign Labels>Campaign_9_Label_6</Campaign Labels>
@@ -3611,8 +3611,8 @@
     <COA Business Name>CPN_9_COABN_6</COA Business Name>
     <COA Description1>CPN_9_COAD1_6</COA Description1>
     <Max CPC>35.38380128</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_9</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_9</Campaign>
     <Campaign Labels>Campaign_9_Label_7</Campaign Labels>
@@ -3653,8 +3653,8 @@
     <COA Business Name>CPN_9_COABN_7</COA Business Name>
     <COA Description1>CPN_9_COAD1_7</COA Description1>
     <Max CPC>62.32284285</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_9</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_9</Campaign>
     <Campaign Labels>Campaign_9_Label_8</Campaign Labels>
@@ -3695,8 +3695,8 @@
     <COA Business Name>CPN_9_COABN_8</COA Business Name>
     <COA Description1>CPN_9_COAD1_8</COA Description1>
     <Max CPC>105.1985108</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_9</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_9</Campaign>
     <Campaign Labels>Campaign_9_Label_9</Campaign Labels>
@@ -3737,8 +3737,8 @@
     <COA Business Name>CPN_9_COABN_9</COA Business Name>
     <COA Description1>CPN_9_COAD1_9</COA Description1>
     <Max CPC>322.6129455</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_9</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_9</Campaign>
     <Campaign Labels>Campaign_9_Label_10</Campaign Labels>
@@ -3779,8 +3779,8 @@
     <COA Business Name>CPN_9_COABN_10</COA Business Name>
     <COA Description1>CPN_9_COAD1_10</COA Description1>
     <Max CPC>53.50495184</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_10</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_10</Campaign>
     <Campaign Labels>Campaign_10_Label_1</Campaign Labels>
@@ -3821,8 +3821,8 @@
     <COA Business Name>CPN_10_COABN_1</COA Business Name>
     <COA Description1>CPN_10_COAD1_1</COA Description1>
     <Max CPC>690.8720092</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_10</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_10</Campaign>
     <Campaign Labels>Campaign_10_Label_2</Campaign Labels>
@@ -3863,8 +3863,8 @@
     <COA Business Name>CPN_10_COABN_2</COA Business Name>
     <COA Description1>CPN_10_COAD1_2</COA Description1>
     <Max CPC>165.707908</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_10</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_10</Campaign>
     <Campaign Labels>Campaign_10_Label_3</Campaign Labels>
@@ -3905,8 +3905,8 @@
     <COA Business Name>CPN_10_COABN_3</COA Business Name>
     <COA Description1>CPN_10_COAD1_3</COA Description1>
     <Max CPC>473.8187008</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_10</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_10</Campaign>
     <Campaign Labels>Campaign_10_Label_4</Campaign Labels>
@@ -3947,8 +3947,8 @@
     <COA Business Name>CPN_10_COABN_4</COA Business Name>
     <COA Description1>CPN_10_COAD1_4</COA Description1>
     <Max CPC>125.7711626</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_10</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_10</Campaign>
     <Campaign Labels>Campaign_10_Label_5</Campaign Labels>
@@ -3989,8 +3989,8 @@
     <COA Business Name>CPN_10_COABN_5</COA Business Name>
     <COA Description1>CPN_10_COAD1_5</COA Description1>
     <Max CPC>425.0669309</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_10</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_10</Campaign>
     <Campaign Labels>Campaign_10_Label_6</Campaign Labels>
@@ -4031,8 +4031,8 @@
     <COA Business Name>CPN_10_COABN_6</COA Business Name>
     <COA Description1>CPN_10_COAD1_6</COA Description1>
     <Max CPC>125.101852</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_10</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_10</Campaign>
     <Campaign Labels>Campaign_10_Label_7</Campaign Labels>
@@ -4073,8 +4073,8 @@
     <COA Business Name>CPN_10_COABN_7</COA Business Name>
     <COA Description1>CPN_10_COAD1_7</COA Description1>
     <Max CPC>322.591473</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_10</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_10</Campaign>
     <Campaign Labels>Campaign_10_Label_8</Campaign Labels>
@@ -4115,8 +4115,8 @@
     <COA Business Name>CPN_10_COABN_8</COA Business Name>
     <COA Description1>CPN_10_COAD1_8</COA Description1>
     <Max CPC>11.15179835</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_10</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_10</Campaign>
     <Campaign Labels>Campaign_10_Label_9</Campaign Labels>
@@ -4157,8 +4157,8 @@
     <COA Business Name>CPN_10_COABN_9</COA Business Name>
     <COA Description1>CPN_10_COAD1_9</COA Description1>
     <Max CPC>78.39532909</Max CPC>
-  </row>
-  <row>
+  </item>
+  <item>
     <Original Campaign>Testing_Campaign_10</Original Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_10</Campaign>
     <Campaign Labels>Campaign_10_Label_10</Campaign Labels>
@@ -4199,5 +4199,5 @@
     <COA Business Name>CPN_10_COABN_10</COA Business Name>
     <COA Description1>CPN_10_COAD1_10</COA Description1>
     <Max CPC>87.2766882</Max CPC>
-  </row>
+  </item>
 </root>
