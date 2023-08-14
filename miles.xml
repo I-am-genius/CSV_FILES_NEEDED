@@ -45,7 +45,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_1</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
-    <Campaign_Labels>Campaign_1_Label_2</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_1_Label_2</Campaign_Labels>
     <Budgets>119.1346154</Budgets>
     <Negative_Keyword_List>Campaign_1_NKWL_2</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_1_CA_2</Campaign_Callout_Asset>
@@ -549,7 +549,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_2</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
-    <Campaign_Labels>Campaign_2_Label_4</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_2_Label_4</Campaign_Labels>
     <Budgets>26.84765606</Budgets>
     <Negative_Keyword_List>Campaign_2_NKWL_4</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_2_CA_4</Campaign_Callout_Asset>
@@ -633,7 +633,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_2</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
-    <Campaign_Labels>Campaign_2_Label_6</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_2_Label_6</Campaign_Labels>
     <Budgets>26.84765606</Budgets>
     <Negative_Keyword_List>Campaign_2_NKWL_6</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_2_CA_6</Campaign_Callout_Asset>
@@ -759,7 +759,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_2</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
-    <Campaign_Labels>Campaign_2_Label_9</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_2_Label_9</Campaign_Labels>
     <Budgets>26.84765606</Budgets>
     <Negative_Keyword_List>Campaign_2_NKWL_9</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_2_CA_9</Campaign_Callout_Asset>
@@ -843,7 +843,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_3</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
-    <Campaign_Labels>Campaign_3_Label_1</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_3_Label_1</Campaign_Labels>
     <Budgets>966.3985313</Budgets>
     <Negative_Keyword_List>Campaign_3_NKWL_1</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_3_CA_1</Campaign_Callout_Asset>
@@ -1095,7 +1095,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_3</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
-    <Campaign_Labels>Campaign_3_Label_7</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_3_Label_7</Campaign_Labels>
     <Budgets>966.3985313</Budgets>
     <Negative_Keyword_List>Campaign_3_NKWL_7</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_3_CA_7</Campaign_Callout_Asset>
@@ -1137,7 +1137,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_3</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
-    <Campaign_Labels>Campaign_3_Label_8</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_3_Label_8</Campaign_Labels>
     <Budgets>966.3985313</Budgets>
     <Negative_Keyword_List>Campaign_3_NKWL_8</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_3_CA_8</Campaign_Callout_Asset>
@@ -1179,7 +1179,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_3</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
-    <Campaign_Labels>Campaign_3_Label_9</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_3_Label_9</Campaign_Labels>
     <Budgets>966.3985313</Budgets>
     <Negative_Keyword_List>Campaign_3_NKWL_9</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_3_CA_9</Campaign_Callout_Asset>
@@ -1221,7 +1221,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_3</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
-    <Campaign_Labels>Campaign_3_Label_10</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_3_Label_10</Campaign_Labels>
     <Budgets>966.3985313</Budgets>
     <Negative_Keyword_List>Campaign_3_NKWL_10</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_3_CA_10</Campaign_Callout_Asset>
@@ -1263,7 +1263,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_4</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_4</Campaign>
-    <Campaign_Labels>Campaign_4_Label_1</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_4_Label_1</Campaign_Labels>
     <Budgets>531.4354258</Budgets>
     <Negative_Keyword_List>Campaign_4_NKWL_1</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_4_CA_1</Campaign_Callout_Asset>
@@ -1305,7 +1305,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_4</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_4</Campaign>
-    <Campaign_Labels>Campaign_4_Label_2</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_4_Label_2</Campaign_Labels>
     <Budgets>531.4354258</Budgets>
     <Negative_Keyword_List>Campaign_4_NKWL_2</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_4_CA_2</Campaign_Callout_Asset>
@@ -1389,7 +1389,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_4</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_4</Campaign>
-    <Campaign_Labels>Campaign_4_Label_4</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_4_Label_4</Campaign_Labels>
     <Budgets>531.4354258</Budgets>
     <Negative_Keyword_List>Campaign_4_NKWL_4</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_4_CA_4</Campaign_Callout_Asset>
@@ -1515,7 +1515,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_4</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_4</Campaign>
-    <Campaign_Labels>Campaign_4_Label_7</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_4_Label_7</Campaign_Labels>
     <Budgets>531.4354258</Budgets>
     <Negative_Keyword_List>Campaign_4_NKWL_7</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_4_CA_7</Campaign_Callout_Asset>
@@ -1809,7 +1809,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_5</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_5</Campaign>
-    <Campaign_Labels>Campaign_5_Label_4</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_5_Label_4</Campaign_Labels>
     <Budgets>86.03189271</Budgets>
     <Negative_Keyword_List>Campaign_5_NKWL_4</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_5_CA_4</Campaign_Callout_Asset>
@@ -1977,7 +1977,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_5</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_5</Campaign>
-    <Campaign_Labels>Campaign_5_Label_8</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_5_Label_8</Campaign_Labels>
     <Budgets>86.03189271</Budgets>
     <Negative_Keyword_List>Campaign_5_NKWL_8</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_5_CA_8</Campaign_Callout_Asset>
@@ -2313,7 +2313,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_6</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_6</Campaign>
-    <Campaign_Labels>Campaign_6_Label_6</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_6_Label_6</Campaign_Labels>
     <Budgets>396.7360041</Budgets>
     <Negative_Keyword_List>Campaign_6_NKWL_6</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_6_CA_6</Campaign_Callout_Asset>
@@ -2355,7 +2355,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_6</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_6</Campaign>
-    <Campaign_Labels>Campaign_6_Label_7</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_6_Label_7</Campaign_Labels>
     <Budgets>396.7360041</Budgets>
     <Negative_Keyword_List>Campaign_6_NKWL_7</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_6_CA_7</Campaign_Callout_Asset>
@@ -2397,7 +2397,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_6</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_6</Campaign>
-    <Campaign_Labels>Campaign_6_Label_8</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_6_Label_8</Campaign_Labels>
     <Budgets>396.7360041</Budgets>
     <Negative_Keyword_List>Campaign_6_NKWL_8</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_6_CA_8</Campaign_Callout_Asset>
@@ -2523,7 +2523,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_7</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_7</Campaign>
-    <Campaign_Labels>Campaign_7_Label_1</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_7_Label_1</Campaign_Labels>
     <Budgets>11.17301247</Budgets>
     <Negative_Keyword_List>Campaign_7_NKWL_1</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_7_CA_1</Campaign_Callout_Asset>
@@ -2649,7 +2649,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_7</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_7</Campaign>
-    <Campaign_Labels>Campaign_7_Label_4</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_7_Label_4</Campaign_Labels>
     <Budgets>11.17301247</Budgets>
     <Negative_Keyword_List>Campaign_7_NKWL_4</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_7_CA_4</Campaign_Callout_Asset>
@@ -2691,7 +2691,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_7</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_7</Campaign>
-    <Campaign_Labels>Campaign_7_Label_5</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_7_Label_5</Campaign_Labels>
     <Budgets>11.17301247</Budgets>
     <Negative_Keyword_List>Campaign_7_NKWL_5</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_7_CA_5</Campaign_Callout_Asset>
@@ -2901,7 +2901,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_7</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_7</Campaign>
-    <Campaign_Labels>Campaign_7_Label_10</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_7_Label_10</Campaign_Labels>
     <Budgets>11.17301247</Budgets>
     <Negative_Keyword_List>Campaign_7_NKWL_10</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_7_CA_10</Campaign_Callout_Asset>
@@ -3027,7 +3027,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_8</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_8</Campaign>
-    <Campaign_Labels>Campaign_8_Label_3</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_8_Label_3</Campaign_Labels>
     <Budgets>51.64066817</Budgets>
     <Negative_Keyword_List>Campaign_8_NKWL_3</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_8_CA_3</Campaign_Callout_Asset>
@@ -3195,7 +3195,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_8</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_8</Campaign>
-    <Campaign_Labels>Campaign_8_Label_7</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_8_Label_7</Campaign_Labels>
     <Budgets>51.64066817</Budgets>
     <Negative_Keyword_List>Campaign_8_NKWL_7</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_8_CA_7</Campaign_Callout_Asset>
@@ -3237,7 +3237,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_8</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_8</Campaign>
-    <Campaign_Labels>Campaign_8_Label_8</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_8_Label_8</Campaign_Labels>
     <Budgets>51.64066817</Budgets>
     <Negative_Keyword_List>Campaign_8_NKWL_8</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_8_CA_8</Campaign_Callout_Asset>
@@ -3279,7 +3279,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_8</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_8</Campaign>
-    <Campaign_Labels>Campaign_8_Label_9</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_8_Label_9</Campaign_Labels>
     <Budgets>51.64066817</Budgets>
     <Negative_Keyword_List>Campaign_8_NKWL_9</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_8_CA_9</Campaign_Callout_Asset>
@@ -3321,7 +3321,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_8</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_8</Campaign>
-    <Campaign_Labels>Campaign_8_Label_10</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_8_Label_10</Campaign_Labels>
     <Budgets>51.64066817</Budgets>
     <Negative_Keyword_List>Campaign_8_NKWL_10</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_8_CA_10</Campaign_Callout_Asset>
@@ -3573,7 +3573,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_9</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_9</Campaign>
-    <Campaign_Labels>Campaign_9_Label_6</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_9_Label_6</Campaign_Labels>
     <Budgets>12.79938796</Budgets>
     <Negative_Keyword_List>Campaign_9_NKWL_6</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_9_CA_6</Campaign_Callout_Asset>
@@ -3615,7 +3615,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_9</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_9</Campaign>
-    <Campaign_Labels>Campaign_9_Label_7</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_9_Label_7</Campaign_Labels>
     <Budgets>12.79938796</Budgets>
     <Negative_Keyword_List>Campaign_9_NKWL_7</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_9_CA_7</Campaign_Callout_Asset>
@@ -3657,7 +3657,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_9</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_9</Campaign>
-    <Campaign_Labels>Campaign_9_Label_8</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_9_Label_8</Campaign_Labels>
     <Budgets>12.79938796</Budgets>
     <Negative_Keyword_List>Campaign_9_NKWL_8</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_9_CA_8</Campaign_Callout_Asset>
@@ -3783,7 +3783,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_10</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_10</Campaign>
-    <Campaign_Labels>Campaign_10_Label_1</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_10_Label_1</Campaign_Labels>
     <Budgets>205.7960718</Budgets>
     <Negative_Keyword_List>Campaign_10_NKWL_1</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_10_CA_1</Campaign_Callout_Asset>
@@ -3825,7 +3825,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_10</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_10</Campaign>
-    <Campaign_Labels>Campaign_10_Label_2</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_10_Label_2</Campaign_Labels>
     <Budgets>205.7960718</Budgets>
     <Negative_Keyword_List>Campaign_10_NKWL_2</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_10_CA_2</Campaign_Callout_Asset>
@@ -3951,7 +3951,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_10</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_10</Campaign>
-    <Campaign_Labels>Campaign_10_Label_5</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_10_Label_5</Campaign_Labels>
     <Budgets>205.7960718</Budgets>
     <Negative_Keyword_List>Campaign_10_NKWL_5</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_10_CA_5</Campaign_Callout_Asset>
@@ -4161,7 +4161,7 @@
   <row>
     <Original_Campaign>Testing_Campaign_10</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_10</Campaign>
-    <Campaign_Labels>Campaign_10_Label_10</Campaign_Labels Labels>
+    <Campaign_Labels>Campaign_10_Label_10</Campaign_Labels>
     <Budgets>205.7960718</Budgets>
     <Negative_Keyword_List>Campaign_10_NKWL_10</Negative_Keyword_List>
     <Campaign_Callout_Asset>C_10_CA_10</Campaign_Callout_Asset>
