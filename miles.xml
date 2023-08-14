@@ -43,7 +43,7 @@
     <Max_CPC>499.8385445</Max_CPC>
   </row>
   <row>
-    <Original_Campaign>Testing_Campaign_1</Original_Campaign Campaign>
+    <Original_Campaign>Testing_Campaign_1</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
     <Campaign_Labels>Campaign_1_Label_2</Campaign_Labels Labels>
     <Budgets>119.1346154</Budgets>
@@ -923,7 +923,7 @@
     <COA_Business_Name>CPN_3_COABN_2</COA_Business_Name>
     <COA_Description1>CPN_3_COAD1_2</COA_Description1>
     <Max_CPC>322.8307231</Max_CPC>
-  </>
+  </row>
   <row>
     <Original_Campaign>Testing_Campaign_3</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_3</Campaign>
@@ -1805,7 +1805,7 @@
     <COA_Business_Name>CPN_5_COABN_3</COA_Business_Name>
     <COA_Description1>CPN_5_COAD1_3</COA_Description1>
     <Max_CPC>204.3752377</Max_CPC>
-  </>
+  </row>
   <row>
     <Original_Campaign>Testing_Campaign_5</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_5</Campaign>
@@ -2309,7 +2309,7 @@
     <COA_Business_Name>CPN_6_COABN_5</COA_Business_Name>
     <COA_Description1>CPN_6_COAD1_5</COA_Description1>
     <Max_CPC>220.3578797</Max_CPC>
-  </>
+  </row>
   <row>
     <Original_Campaign>Testing_Campaign_6</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_6</Campaign>
@@ -2519,7 +2519,7 @@
     <COA_Business_Name>CPN_6_COABN_10</COA_Business_Name>
     <COA_Description1>CPN_6_COAD1_10</COA_Description1>
     <Max_CPC>73.2910245</Max_CPC>
-  </>
+  </row>
   <row>
     <Original_Campaign>Testing_Campaign_7</Original_Campaign>
     <Campaign>DND_DONT_MODIFY Testing_Campaign_7</Campaign>
