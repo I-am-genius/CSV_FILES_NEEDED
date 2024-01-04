@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+    <channel>
+        <title><![CDATA[Coolshop - Optymzr]]></title>
+        <link><![CDATA[https://www.coolshop.dk/]]></link>
+        <description><![CDATA[Coolshop DK Optymzr Feed]]></description>
+        <item>
+            <g:price><![CDATA[311]]></g:price>
+            <g:product_type_1><![CDATA[Spil og konsoller]]></g:product_type_1>
+            <g:product_type_1_format><![CDATA[spil-og-konsoller]]></g:product_type_1_format>
+            <g:product_type_2><![CDATA[Xbox One]]></g:product_type_2>
+            <g:product_type_2_format><![CDATA[xbox-one]]></g:product_type_2_format>
+            <g:product_type_3><![CDATA[Spil]]></g:product_type_3>
+            <g:product_type_3_format><![CDATA[spil]]></g:product_type_3_format>
+            <g:product_type_4><![CDATA[]]></g:product_type_4>
+            <product_type_4_format><![CDATA[]]></product_type_4_format>
+            <product_type_5><![CDATA[]]></product_type_5>
+            <product_type_5_format><![CDATA[]]></product_type_5_format>
+            <gender><![CDATA[unisex]]></gender>
+            <brand><![CDATA[Ravenscourt]]></brand>
+            <shopping>
+                <element><![CDATA[Ravenscourt]]></element>
+                <why><![CDATA[HoolaHu]]></why>
+            </shopping>
+            <brand_format><![CDATA[ravenscourt]]></brand_format>
+            <game_franchice><![CDATA[]]></game_franchice>
+            <game_franchice_format><![CDATA[]]></game_franchice_format>
+            <saving_percent><![CDATA[ngjdsaghjvioaræjgioraøjagiopreæjgioprejkgpoer]]></saving_percent>
+            <product_type_6><![CDATA[]]></product_type_6>
+            <product_type_6_format><![CDATA[]]></product_type_6_format>
+            <g:custom_label_0><![CDATA[Beauty Days 2022]]></g:custom_label_0>
+            <g:custom_label_1><![CDATA[Coolshop - Beauty Days]]></g:custom_label_1>
+            <g:custom_label_2><![CDATA[Beauty Days - Spar op til 38%]]></g:custom_label_2>
+            <g:custom_label_3><![CDATA[Spar op til 38% indtil onsdag]]></g:custom_label_3>
+            <title><![CDATA[Let's Sing: ABBA - Single Mic Bundle - Xbox One]]></title>
+            <link><![CDATA[https://www.coolshop.dk/produkt/lets-sing-abba-single-mic-bundle/23D4V9/]]></link>
+            <g:id><![CDATA[23D4V9]]></g:id>
+            <g:availability><![CDATA[in stock]]></g:availability>
+            <short_title><![CDATA[Single Mic Bundle]]></short_title>
+        </item>
+        <item>
+            <g:price><![CDATA[215]]></g:price>
+            <g:product_type_1><![CDATA[Spil og konsoller]]></g:product_type_1>
+            <g:product_type_1_format><![CDATA[spil-og-konsoller]]></g:product_type_1_format>
+            <g:product_type_2><![CDATA[PlayStation 4]]></g:product_type_2>
+            <g:product_type_2_format><![CDATA[playstation-4]]></g:product_type_2_format>
+            <g:product_type_3><![CDATA[Spil]]></g:product_type_3>
+            <g:product_type_3_format><![CDATA[spil]]></g:product_type_3_format>
+            <g:product_type_4><![CDATA[]]></g:product_type_4>
+            <product_type_4_format><![CDATA[]]></product_type_4_format>
+            <product_type_5><![CDATA[]]></product_type_5>
+            <product_type_5_format><![CDATA[]]></product_type_5_format>
+            <gender><![CDATA[unisex]]></gender>
+            <brand><![CDATA[Ravenscourt]]></brand>
+            <brand_format><![CDATA[ravenscourt]]></brand_format>
+            <game_franchice><![CDATA[]]></game_franchice>
+            <game_franchice_format><![CDATA[]]></game_franchice_format>
+            <saving_percent><![CDATA[ngjdsaghjvioaræjgioraøjagiopreæjgioprejkgpoer]]></saving_percent>
+            <product_type_6><![CDATA[]]></product_type_6>
+            <product_type_6_format><![CDATA[]]></product_type_6_format>
+            <shopping>
+                <element><![CDATA[Ravenscourt]]></element>
+                <why><![CDATA[HoolaHu]]></why>
+            </shopping>
+            <g:custom_label_0><![CDATA[Beauty Days 2022]]></g:custom_label_0>
+            <g:custom_label_1><![CDATA[Coolshop - Beauty Days]]></g:custom_label_1>
+            <g:custom_label_2><![CDATA[Beauty Days - Spar op til 38%]]></g:custom_label_2>
+            <g:custom_label_3><![CDATA[Spar op til 38% indtil onsdag]]></g:custom_label_3>
+            <title><![CDATA[Let's Sing ABBA - PlayStation 4]]></title>
+            <link><![CDATA[https://www.coolshop.dk/produkt/lets-sing-abba/23D4PK/]]></link>
+            <g:id><![CDATA[23D4PK]]></g:id>
+            <g:availability><![CDATA[backorder]]></g:availability>
+            <short_title><![CDATA[Let's Sing ABBA]]></short_title>
+        </item>
+    </channel>
+</rss>
