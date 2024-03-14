@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_1</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
+
+    <Campaign_Labels>Campaign_1_Label_1</Campaign_Labels>
+
+    <Budgets>119.1346154</Budgets>
+
+    <Negative_Keyword_List>Campaign_1_NKWL_1</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_1_CA_1</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_1_SAT_1</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_1_SAD1_1</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_1_SAD2_1</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.represcribe.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_1_PAH_1</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>539.965827</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_1_PAP_1</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.repracticed.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>4094365695</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 1</AdGroup>
+
+    <AdGroup_Labels>CPN_1_AG_L_1</AdGroup_Labels>
+
+    <Keywords>C_1_KW_1</Keywords>
+
+    <Max_CPC>499.8385445</Max_CPC>
+
+  </row>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_1</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
+
+    <Campaign_Labels>Campaign_1_Label_2</Campaign_Labels>
+
+    <Budgets>119.1346154</Budgets>
+
+    <Negative_Keyword_List>Campaign_1_NKWL_2</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_1_CA_2</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_1_SAT_2</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_1_SAD1_2</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_1_SAD2_2</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.loathed.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_1_PAH_2</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>549.7321361</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_1_PAP_2</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.inhumate.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>3672599399</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 2</AdGroup>
+
+    <AdGroup_Labels>CPN_1_AG_L_2</AdGroup_Labels>
+
+    <Keywords>C_1_KW_2</Keywords>
+
+    <Max_CPC>500.7505161</Max_CPC>
+
+  </row>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_1</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
+
+    <Campaign_Labels>Campaign_1_Label_3</Campaign_Labels>
+
+    <Budgets>119.1346154</Budgets>
+
+    <Negative_Keyword_List>Campaign_1_NKWL_3</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_1_CA_3</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_1_SAT_3</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_1_SAD1_3</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_1_SAD2_3</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.uroliths.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_1_PAH_3</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>151.1663639</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_1_PAP_3</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.unhospitable.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>6670930140</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 3</AdGroup>
+
+    <AdGroup_Labels>CPN_1_AG_L_3</AdGroup_Labels>
+
+    <Keywords>C_1_KW_3</Keywords>
+
+    <Max_CPC>69.3461651</Max_CPC>
+
+  </row>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_1</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
+
+    <Campaign_Labels>Campaign_1_Label_4</Campaign_Labels>
+
+    <Budgets>119.1346154</Budgets>
+
+    <Negative_Keyword_List>Campaign_1_NKWL_4</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_1_CA_4</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_1_SAT_4</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_1_SAD1_4</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_1_SAD2_4</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.nonfact.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_1_PAH_4</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>230.3064971</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_1_PAP_4</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.pitirri.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>5748239759</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 4</AdGroup>
+
+    <AdGroup_Labels>CPN_1_AG_L_4</AdGroup_Labels>
+
+    <Keywords>C_1_KW_4</Keywords>
+
+    <Max_CPC>276.4093213</Max_CPC>
+
+  </row>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_1</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
+
+    <Campaign_Labels>Campaign_1_Label_5</Campaign_Labels>
+
+    <Budgets>119.1346154</Budgets>
+
+    <Negative_Keyword_List>Campaign_1_NKWL_5</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_1_CA_5</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_1_SAT_5</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_1_SAD1_5</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_1_SAD2_5</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.moldiest.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_1_PAH_5</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>653.5922781</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_1_PAP_5</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.dermonosology.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>5696467746</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 5</AdGroup>
+
+    <AdGroup_Labels>CPN_1_AG_L_5</AdGroup_Labels>
+
+    <Keywords>C_1_KW_5</Keywords>
+
+    <Max_CPC>30.03346277</Max_CPC>
+
+  </row>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_1</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
+
+    <Campaign_Labels>Campaign_1_Label_6</Campaign_Labels>
+
+    <Budgets>119.1346154</Budgets>
+
+    <Negative_Keyword_List>Campaign_1_NKWL_6</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_1_CA_6</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_1_SAT_6</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_1_SAD1_6</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_1_SAD2_6</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.variolar.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_1_PAH_6</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>542.9875304</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_1_PAP_6</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.unbaled.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>9119782693</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 6</AdGroup>
+
+    <AdGroup_Labels>CPN_1_AG_L_6</AdGroup_Labels>
+
+    <Keywords>C_1_KW_6</Keywords>
+
+    <Max_CPC>163.0899267</Max_CPC>
+
+  </row>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_1</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
+
+    <Campaign_Labels>Campaign_1_Label_7</Campaign_Labels>
+
+    <Budgets>119.1346154</Budgets>
+
+    <Negative_Keyword_List>Campaign_1_NKWL_7</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_1_CA_7</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_1_SAT_7</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_1_SAD1_7</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_1_SAD2_7</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.mummification.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_1_PAH_7</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>378.5479368</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_1_PAP_7</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.nonvalent.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>1752298636</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 7</AdGroup>
+
+    <AdGroup_Labels>CPN_1_AG_L_7</AdGroup_Labels>
+
+    <Keywords>C_1_KW_7</Keywords>
+
+    <Max_CPC>3.868428533</Max_CPC>
+
+  </row>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_1</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
+
+    <Campaign_Labels>Campaign_1_Label_8</Campaign_Labels>
+
+    <Budgets>119.1346154</Budgets>
+
+    <Negative_Keyword_List>Campaign_1_NKWL_8</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_1_CA_8</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_1_SAT_8</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_1_SAD1_8</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_1_SAD2_8</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.datedly.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_1_PAH_8</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>876.1011001</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_1_PAP_8</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.spookdom.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>8579979204</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 8</AdGroup>
+
+    <AdGroup_Labels>CPN_1_AG_L_8</AdGroup_Labels>
+
+    <Keywords>C_1_KW_8</Keywords>
+
+    <Max_CPC>460.6974015</Max_CPC>
+
+  </row>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_1</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
+
+    <Campaign_Labels>Campaign_1_Label_9</Campaign_Labels>
+
+    <Budgets>119.1346154</Budgets>
+
+    <Negative_Keyword_List>Campaign_1_NKWL_9</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_1_CA_9</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_1_SAT_9</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_1_SAD1_9</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_1_SAD2_9</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.footpaces.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_1_PAH_9</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>71.68900418</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_1_PAP_9</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.uncaste.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>4425173470</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 9</AdGroup>
+
+    <AdGroup_Labels>CPN_1_AG_L_9</AdGroup_Labels>
+
+    <Keywords>C_1_KW_9</Keywords>
+
+    <Max_CPC>188.1599671</Max_CPC>
+
+  </row>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_1</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_1</Campaign>
+
+    <Campaign_Labels>Campaign_1_Label_10</Campaign_Labels>
+
+    <Budgets>119.1346154</Budgets>
+
+    <Negative_Keyword_List>Campaign_1_NKWL_10</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_1_CA_10</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_1_SAT_10</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_1_SAD1_10</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_1_SAD2_10</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.lapins.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_1_PAH_10</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>293.4631903</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_1_PAP_10</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.capreolary.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>8251923844</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 10</AdGroup>
+
+    <AdGroup_Labels>CPN_1_AG_L_10</AdGroup_Labels>
+
+    <Keywords>C_1_KW_10</Keywords>
+
+    <Max_CPC>94.09946238</Max_CPC>
+
+  </row>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_2</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
+
+    <Campaign_Labels>Campaign_2_Label_1</Campaign_Labels>
+
+    <Budgets>26.84765606</Budgets>
+
+    <Negative_Keyword_List>Campaign_2_NKWL_1</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_2_CA_1</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_2_SAT_1</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_2_SAD1_1</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_2_SAD2_1</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.expansionary.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_2_PAH_1</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>46.47958531</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_2_PAP_1</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.resinates.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>9070364493</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 1</AdGroup>
+
+    <AdGroup_Labels>CPN_2_AG_L_1</AdGroup_Labels>
+
+    <Keywords>C_2_KW_1</Keywords>
+
+    <Max_CPC>16.22036486</Max_CPC>
+
+  </row>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_2</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
+
+    <Campaign_Labels>Campaign_2_Label_2</Campaign_Labels>
+
+    <Budgets>26.84765606</Budgets>
+
+    <Negative_Keyword_List>Campaign_2_NKWL_2</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_2_CA_2</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_2_SAT_2</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_2_SAD1_2</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_2_SAD2_2</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.loyd.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_2_PAH_2</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>176.2256946</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_2_PAP_2</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.diamyl.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>8572725612</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 2</AdGroup>
+
+    <AdGroup_Labels>CPN_2_AG_L_2</AdGroup_Labels>
+
+    <Keywords>C_2_KW_2</Keywords>
+
+    <Max_CPC>626.6566133</Max_CPC>
+
+  </row>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_2</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
+
+    <Campaign_Labels>Campaign_2_Label_3</Campaign_Labels>
+
+    <Budgets>26.84765606</Budgets>
+
+    <Negative_Keyword_List>Campaign_2_NKWL_3</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_2_CA_3</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_2_SAT_3</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_2_SAD1_3</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_2_SAD2_3</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.unrefunding.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_2_PAH_3</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>801.3974005</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_2_PAP_3</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.hexacanthous.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>9442325543</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 3</AdGroup>
+
+    <AdGroup_Labels>CPN_2_AG_L_3</AdGroup_Labels>
+
+    <Keywords>C_2_KW_3</Keywords>
+
+    <Max_CPC>339.475652</Max_CPC>
+
+  </row>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_2</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
+
+    <Campaign_Labels>Campaign_2_Label_4</Campaign_Labels>
+
+    <Budgets>26.84765606</Budgets>
+
+    <Negative_Keyword_List>Campaign_2_NKWL_4</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_2_CA_4</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_2_SAT_4</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_2_SAD1_4</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_2_SAD2_4</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.averting.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_2_PAH_4</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>256.3822141</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_2_PAP_4</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.shibboleth.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>3198862951</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 4</AdGroup>
+
+    <AdGroup_Labels>CPN_2_AG_L_4</AdGroup_Labels>
+
+    <Keywords>C_2_KW_4</Keywords>
+
+    <Max_CPC>60.93604457</Max_CPC>
+
+  </row>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_2</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
+
+    <Campaign_Labels>Campaign_2_Label_5</Campaign_Labels>
+
+    <Budgets>26.84765606</Budgets>
+
+    <Negative_Keyword_List>Campaign_2_NKWL_5</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_2_CA_5</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_2_SAT_5</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_2_SAD1_5</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_2_SAD2_5</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.phrymaceae.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_2_PAH_5</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>212.0784509</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_2_PAP_5</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.hypercomposite.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>4117181504</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 5</AdGroup>
+
+    <AdGroup_Labels>CPN_2_AG_L_5</AdGroup_Labels>
+
+    <Keywords>C_2_KW_5</Keywords>
+
+    <Max_CPC>354.5238388</Max_CPC>
+
+  </row>
+
+  <row>
+
+    <Original_Campaign>Testing_Campaign_2</Original_Campaign>
+
+    <Campaign>DND_DONT_MODIFY Testing_Campaign_2</Campaign>
+
+    <Campaign_Labels>Campaign_2_Label_6</Campaign_Labels>
+
+    <Budgets>26.84765606</Budgets>
+
+    <Negative_Keyword_List>Campaign_2_NKWL_6</Negative_Keyword_List>
+
+    <Campaign_Callout_Asset>C_2_CA_6</Campaign_Callout_Asset>
+
+    <Campaign_Sitelink_Asset_Text>C_2_SAT_6</Campaign_Sitelink_Asset_Text>
+
+    <Campaign_Sitelink_Asset_Description_1>C_2_SAD1_6</Campaign_Sitelink_Asset_Description_1>
+
+    <Campaign_Sitelink_Asset_Description_2>C_2_SAD2_6</Campaign_Sitelink_Asset_Description_2>
+
+    <Campaign_Sitelink_Asset_Url>https://www.roughness.com</Campaign_Sitelink_Asset_Url>
+
+    <Campaign_Price_Asset_Header>C_2_PAH_6</Campaign_Price_Asset_Header>
+
+    <Campaign_Price_Asset_Price>215.3204019</Campaign_Price_Asset_Price>
+
+    <Campaign_Price_Asset_Description>C_2_PAP_6</Campaign_Price_Asset_Description>
+
+    <Campaign_Price_Asset_Url>https://www.carabidae.com</Campaign_Price_Asset_Url>
+
+    <Campaign_Call_Asset_Number>4128131083</Campaign_Call_Asset_Number>
+
+    <AdGroup>AdGroup 6</AdGroup>
+
+    <AdGroup_Labels>CPN_2_AG_L_6</AdGroup_Labels>
+
+    <Keywords>C_2_KW_6</Keywords>
+
+    <Max_CPC>258.1141995</Max_CPC>
+
+  </row>
+
+</root>
