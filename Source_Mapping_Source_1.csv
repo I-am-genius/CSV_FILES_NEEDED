@@ -1,0 +1,14 @@
+ID,Name,Budget,Adgroup,Max CPC,H1,H2,H3,D1,D2,LINK,Kw,KW_LINK
+1,CPN1,0.01,ad1,0.01,h1,h101,h201,d1,d101,https://www.optmyzr.com,k1,https://www.optmyzr.com
+2,CPN2,0.01,ad2,0.01,h2,h102,h202,d2,d102,https://www.optmyzr.com,k2,https://www.optmyzr.com
+3,CPN3,0.01,ad3,0.01,h3,h103,h203,d3,d103,https://www.optmyzr.com,k3,https://www.optmyzr.com
+3,CPN3,0.01,ad3,0.01,h4,h104,h204,d4,d104,https://www.optmyzr.com,k4,https://www.optmyzr.com
+3,CPN3,0.01,ad3,0.01,h5,h105,h205,d5,d105,https://www.optmyzr.com,k5,https://www.optmyzr.com
+4,CPN4,0.01,ad4,0.01,h6,h106,h206,d6,d106,https://www.optmyzr.com,k6,https://www.optmyzr.com
+4,CPN4,0.01,ad4,0.01,h7,h107,h207,d7,d107,https://www.optmyzr.com,k7,https://www.optmyzr.com
+5,CPN5,0.01,ad5,0.01,h8,h108,h208,d8,d108,https://www.optmyzr.com,k8,https://www.optmyzr.com
+6,CPN6,0.01,ad6,0.01,h9,h109,h209,d9,d109,https://www.optmyzr.com,k9,https://www.optmyzr.com
+7,CPN7,0.01,ad7,0.01,h10,h110,h210,d10,d110,https://www.optmyzr.com,k10,https://www.optmyzr.com
+8,CPN8,0.01,ad8,0.01,h11,h111,h211,d11,d111,https://www.optmyzr.com,k11,https://www.optmyzr.com
+9,CPN9,0.01,ad9,0.01,h12,h112,h212,d12,d112,https://www.optmyzr.com,k12,https://www.optmyzr.com
+10,CPN10,0.01,ad10,0.01,h13,h113,h213,d13,d113,https://www.optmyzr.com,k13,https://www.optmyzr.com
